@@ -1,0 +1,13 @@
+{
+	"prefix": "b!",
+    "token": "TOKEN",
+    "owner": "YOUR DISCORD",
+    "dailyamount": 30,
+    "bankingdatabase": {
+        "host": "HOST",
+        "port": "3306",
+        "user": "USER",
+        "password": "PASSWORD",
+        "database": "DATABSE"
+    }
+}

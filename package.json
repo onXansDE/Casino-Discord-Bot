@@ -1,0 +1,27 @@
+{
+  "name": "dsl00-casino-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chance": "^1.1.5",
+    "discord.js": "^12.2.0",
+    "mysql": "^2.18.1",
+    "pretty-seconds": "^1.0.0",
+    "randomstring": "^1.1.5",
+    "time-stamp": "^2.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dissolution00/Dsl00-Casino-Bot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Dissolution00/Dsl00-Casino-Bot/issues"
+  },
+  "homepage": "https://github.com/Dissolution00/Dsl00-Casino-Bot#readme",
+  "description": ""
+}
